@@ -31,5 +31,7 @@ class MainActivity : AppCompatActivity() {
         restoreButton.setOnClickListener(){
             editText.setText(sharedPrefs.getString(EDIT_TEXT_KEY, ""))
         }
+
+        // add comment yuhooo
     }
 }
