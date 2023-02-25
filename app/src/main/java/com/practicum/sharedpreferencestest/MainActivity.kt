@@ -33,5 +33,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // add comment yuhooo
+        // new comment
+        // second comment
     }
 }
